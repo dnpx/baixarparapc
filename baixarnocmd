@@ -1,0 +1,4 @@
+scp root@000.000.000.000:/var/www/fisiocacoal.rd5.com.br/htdocs/wp-content/themes/avantage.zip C:\Users\SeuUsuario\Downloads\
+
+Substituir pelo ip de sua máquina linux
+Substituir usuário
